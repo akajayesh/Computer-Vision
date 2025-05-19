@@ -2,7 +2,7 @@
 
 A collection of Python projects built using OpenCV and hand gesture recognition, focused on experimenting with computer vision in real-world interactions.
 
-Originally built to experiment with game control using hand tracking — these scripts showcase different gesture-based tools and systems.
+Originally built to experiment with game control using hand tracking. These scripts showcase different gesture-based tools and systems.
 
 
 
